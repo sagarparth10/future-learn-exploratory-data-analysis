@@ -1,0 +1,89 @@
+commit 33887d014107d53a307de464a18136650db0989d
+Author: Parth Sagar <P.Sagar2@newcastle.ac.uk>
+Date:   Tue Dec 7 17:27:21 2021 +0000
+
+    observations reported
+
+commit ae5479288b445fd78842023b8433de5f26672a6a
+Author: Parth Sagar <P.Sagar2@newcastle.ac.uk>
+Date:   Mon Dec 6 12:19:48 2021 +0000
+
+    methodolgy half way done
+
+commit fc18f89bfdea9450678bba1c84823876c6a966e9
+Author: Parth Sagar <P.Sagar2@newcastle.ac.uk>
+Date:   Mon Dec 6 02:10:26 2021 +0000
+
+    answering the questions
+
+commit 799f1ae9d279449febf3bb0db62525211f1d89cd
+Author: Parth Sagar <P.Sagar2@newcastle.ac.uk>
+Date:   Sun Dec 5 17:05:46 2021 +0000
+
+    the data for whole 7 iteration is succesfull
+
+commit 68b8f183e87fd5a73400f25c5f2fbce94d1d579d
+Author: Parth Sagar <P.Sagar2@newcastle.ac.uk>
+Date:   Sat Dec 4 20:54:19 2021 +0000
+
+    the data for the whole 7 iteration is tried
+
+commit 9ebd993fde3d817979c573f539b5f9588d233cae
+Author: Parth Sagar <P.Sagar2@newcastle.ac.uk>
+Date:   Sat Dec 4 11:20:17 2021 +0000
+
+    Introduction complete and methodology started
+
+commit 23a8ad55a4e2a035a0eac551141f09586a7f602e
+Author: Parth Sagar <P.Sagar2@newcastle.ac.uk>
+Date:   Fri Dec 3 23:10:09 2021 +0000
+
+    Introduction included
+
+commit 6f71253a3367e4a10ae1df426c2d9cc03a8bba41
+Author: Parth Sagar <P.Sagar2@newcastle.ac.uk>
+Date:   Fri Dec 3 00:36:35 2021 +0000
+
+    eda complete cycle 2
+
+commit cd1999452dd4cf5f0471ed7b38bbe8064625263d
+Author: Parth Sagar <P.Sagar2@newcastle.ac.uk>
+Date:   Thu Dec 2 11:59:39 2021 +0000
+
+    2nd iteration started
+
+commit 3c9b4eb236b10a31dfef651f216b0f9a420ee668
+Author: Parth Sagar <P.Sagar2@newcastle.ac.uk>
+Date:   Wed Dec 1 20:52:16 2021 +0000
+
+    Trying number of plots
+
+commit f34e4b2b39a8f2e2a9f79fe053c7a9da55f9155f
+Author: Parth Sagar <P.Sagar2@newcastle.ac.uk>
+Date:   Wed Dec 1 12:33:13 2021 +0000
+
+    data cleaning complete with average time spent on step
+
+commit bcfa97b84ca29626723f16114366ba31a30d4cb7
+Author: Parth Sagar <P.Sagar2@newcastle.ac.uk>
+Date:   Wed Dec 1 11:44:06 2021 +0000
+
+    parsed the date from character to date format
+
+commit 33ad8460e52ce00b2b846e66f5103a04e92eff86
+Author: Parth Sagar <P.Sagar2@newcastle.ac.uk>
+Date:   Wed Dec 1 09:55:45 2021 +0000
+
+    with merged data
+
+commit bb156bae6f8baf2d845a5c5976853e7ec6d58259
+Author: Parth sagar <P.sagar2@ncl.ac.uk>
+Date:   Mon Nov 29 20:25:16 2021 +0000
+
+    Imported data and set up Markdown report
+
+commit 719c0b702c31e1a7cbdca9ff34d952fa66250f3d
+Author: Parth sagar <P.sagar2@ncl.ac.uk>
+Date:   Fri Nov 26 00:13:24 2021 +0000
+
+    Set first commit
